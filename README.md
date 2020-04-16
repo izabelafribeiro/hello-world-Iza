@@ -1,2 +1,2 @@
 # hello-world-Iza
-Ideias, Cópias, Resumos
+Ideas, Copies, Summaries
